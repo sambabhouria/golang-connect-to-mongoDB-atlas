@@ -15,6 +15,8 @@ func main() {
 
 	/*
 	   Connect to my cluster
+	   I leave my db connection juste to let you test that every thins work
+	   but if you uses yours that will be the good things to understand how its work
 	*/
 	client, err := mongo.NewClient(options.Client().ApplyURI("mongodb+srv://userdatabase:bhouriamongodbatlas123@shoeshop.0ybin.mongodb.net/blog?retryWrites=true&w=majority"))
 	if err != nil {
