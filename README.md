@@ -18,11 +18,9 @@ There are numerous ways to create applications in Go to leverage MongoDB.
 For server development, there are full-featured web frameworks like Revel and Gin, lightweight tools like Web.go, and even ultra-simple modular approaches like the Gorilla web toolkit.
 For data science, Tools like Gopher Data, Gopher Notes, and Gota or qframe open up Golang to data.
 For Machine Learning use cases, you should check out GoLearn.
-
-<img src="00.png">
-
 # `Here is a code example that shows how to insert and query a set of documents.`
 
+<img src="00.png">
 
 
 # `ScreenShot`
